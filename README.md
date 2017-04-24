@@ -4,7 +4,7 @@
 
 This repo contains the slides, assets and speaker notes for my Maker Mondays presentation, based on my "Don't Get Comfortable" session from FITC: http://fitc.ca/presentation/dont-get-comfortable/
 
-PLAY ALONG AT HOME: https://danhett.github.io/FITCtalk/
+PLAY ALONG AT HOME: https://danhett.github.io/MakerMondaysTalk/
 
 I decided to distribute my content like this for a few reasons.
 - Firstly, Keynote doesn't work everywhere. This format is a nice safety net.
